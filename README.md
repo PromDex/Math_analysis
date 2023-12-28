@@ -1,2 +1,2 @@
-# MathStat
-Теория вероятностей и математическая статистика
+# MathAnalysis
+GeekBrains
